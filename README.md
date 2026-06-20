@@ -1,2 +1,14 @@
 # bsports-cn-hub
-HTML page archive and documentation
+
+页面文件整理目录
+
+本仓库作为页面文件的落地点，保存发布后的独立页面。
+
+## 维护文件
+
+- 静态页面保存在根目录
+- README 提供简要说明
+
+## 公开访问
+
+公开访问状态取决于仓库权限、Pages 配置和 GitHub 同步状态。
